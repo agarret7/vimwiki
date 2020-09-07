@@ -8,5 +8,6 @@
 # Personal
 
 * [Goals](private/Goals.md) -- Goals from my personal life
+* [Plans](private/Plans.md) -- Plans in my personal life
 * [Scratch](private/Scratch.md) -- Memory pad for keeping notes
 * [Random](private/Random.md) -- Assortment of random thoughts

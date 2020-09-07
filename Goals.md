@@ -4,9 +4,10 @@ lack concrete deliverables, and thus are especially susceptible to being
 redefined, or eliminated entirely. They can be thought of as "goals unlinked to
 robust time estimates". Observables of this process may be concrete goals,
 research papers, and conversations with colleagues.
-    * Infrastructure for SceneGraph Inference Engineering
-    * Writeup on SceneGraph Inference
-    * SceneGraph Inference Tutorial Sequence
+
+* Infrastructure for SceneGraph Inference Engineering
+* Writeup on SceneGraph Inference
+* SceneGraph Inference Tutorial Sequence
 
 # Goals
 This section is for units of work on the order of a few weeks to a month. It
