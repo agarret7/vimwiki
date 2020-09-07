@@ -17,11 +17,13 @@ issues, and pull requests, and SCRUM table entries. This is the smallest unit
 of activity without specific execution plans. The deliverables should then be
 specific enough that a daily plan is sufficient to make clear progress without
 being confused or lost.
-    * [ ] [Integrate Derendering into GenSceneGraphs](IntegrateDerenderingIntoGenSceneGraphs) | 09/2020
-    * [-] [Post-NeurIPS Plans](Post-NeurIPSPlans) | 22/07/2020 - 31/08-2020
+
+* [ ] [Integrate Derendering into GenSceneGraphs](IntegrateDerenderingIntoGenSceneGraphs.md) | 09/2020
+* [-] [Post-NeurIPS Plans](Post-NeurIPSPlans.md) | 22/07/2020 - 31/08-2020
 
 # Open Questions
-    * What is the purpose of time estimation as distinct from having
-      well-defined goals? Is it merely indicative of having a solid plan, or
-      does it serve a more independent purpose in planning/execution?
-    * How do we track risk mitigation and uncertainty?
+
+* What is the purpose of time estimation as distinct from having well-defined
+  goals? Is it merely indicative of having a solid plan, or does it serve a
+  more independent purpose in planning/execution?
+* How do we track risk mitigation and uncertainty?

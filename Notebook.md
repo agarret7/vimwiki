@@ -29,7 +29,7 @@ Good reflective questions at the end of the day are:
 ## Reviews
 Each week contains a review of activities during the week. It focuses on where
 completed work diverged from plans, and suggestions for improvements on the
-next iteration of plans. Part of the review process is updating [[Goals]], by
+next iteration of plans. Part of the review process is updating [Goals](Goals.md), by
 linking deliverables from the week that document progress at a higher level.
 
 This is also a great place to consider if issues that popped up were specific
@@ -39,14 +39,14 @@ structurally neglected by this wiki.
 ## Entry List
 
 ### 08/09/2020 - 11/09/2020
-* [Weekly Review](review:11-09-2020)
-* [11-09-2020](11-09-2020)
-* [10-09-2020](10-09-2020)
-* [09-09-2020](09-09-2020)
-* [08-09-2020](08-09-2020)
+* [Weekly Review](review:11-09-2020.md)
+* [11-09-2020](11-09-2020.md)
+* [10-09-2020](10-09-2020.md)
+* [09-09-2020](09-09-2020.md)
+* [08-09-2020](08-09-2020.md)
 
 ### 02/09/2020 - 05/09/2020
-* [Weekly Review](review:04-09-2020)
-* [04-09-2020](04-09-2020)
-* [03-09-2020](03-09-2020)
-* [02-09-2020](02-09-2020)
+* [Weekly Review](review:04-09-2020.md)
+* [04-09-2020](04-09-2020.md)
+* [03-09-2020](03-09-2020.md)
+* [02-09-2020](02-09-2020.md)

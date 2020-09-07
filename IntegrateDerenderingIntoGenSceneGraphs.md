@@ -12,5 +12,5 @@ project.
 * [GenSceneGraphs.jl Repo](https://github.com/probcomp/GenSceneGraphs.jl)
 
 # Subgoals
-1) [ ] [Overlay SceneGraphs on Camera Image](OverlaySceneGraphOnCameraImage)
-2) [-] [Realtime ROS RViz Visualization](RealtimeROSRVizVisualization) (Suspended, see [here](RealtimeROSRVizVisualization#Reason for Suspension.md).)
+1) [ ] [Overlay SceneGraphs on Camera Image](OverlaySceneGraphOnCameraImage.md)
+2) [-] [Realtime ROS RViz Visualization](RealtimeROSRVizVisualization.md) (Suspended, see [here](RealtimeROSRVizVisualization#Reason for Suspension.md).)
