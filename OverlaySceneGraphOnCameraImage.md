@@ -3,7 +3,7 @@ Integrating the visualization used to render SceneGraphs over images as a set
 of bounding boxes and contact planes. Focused on producing camera-ready
 visualizations of scenegraphs, which will be/has been useful for promoting the
 work to an outside audience, as well as providing crucial
-[[Infrastructure for SceneGraph Inference Engineering]].
+[Infrastructure for SceneGraph Inference Engineering](InfrastructureForSceneGraphEngineering).
 
 ## Links
 * [Working Branch](https://github.com/probcomp/GenSceneGraphs.jl/tree/20200805-agarret7-scenegraph-integration-2d-vis)
