@@ -18,24 +18,36 @@ The Derendering repository is made up of 3 main components:
 The primary considerations in the refactor (in order of importance) are:
 
 * Pruning dead code, via an active selection of pieces of code to be integrated
-  in a new repository. This is mostly relevant for (1) and (3)
+  in a new repository. This is mostly relevant for (1) and (3).
 * Removing Python dependencies by replacing command-line calls to
   RVizScenePublisher and wrappers with GenSceneGraphs calls to
   `overlaySceneGraph`. This is relevant for (2).
 * Documenting the repository and its code.
 
 There may be minimal rewriting of the actual infrastructure, but we can mostly
-use a functional subset of the Derendering repo.
+use a functional subset of the Derendering repo. Special consideration should
+be paid to keeping the modeling and inference code modular, so that we can very
+easily make a Jupyter notebook version.
 
-Special consideration should be paid to keeping the modeling and inference code
-modular (self-contained)
+Looking ahead, if there is cross compatability for `.jl` files to be read as
+Jupyter notebooks (maybe with cells defined by comments), we will want to use
+that, and then define the tutorial sequence through a set of self-contained
+`model.jl`/`infer.jl` pairs, so that we can run any single sequence as part of
+the overall infrastructure, or read it as an almost completely self-contained
+notebook/document for others.
 
 # Deliverables
 
-1. [ ] Push-button Makefile that runs entire pipeline
-2. [ ] Running data generation pipeline calls the following:
-    1. [ ] Generate YCB-Video dataset from raw data
-    2. [ ] Generate YCB-InHouse dataset from raw data
-    3. [ ] Generate YCB-Synthetic dataset
-3. [ ] Running `run_methods.jl` generates
-4. [ ] Running 
+1. [ ] *README.md* containing a summary of the infrastructure
+2. [ ] Push-button Makefile that runs entire pipeline
+    1. [ ] Running data generation pipeline reruns the following:
+        1. [ ] Download raw YCB-Video dataset and convert to canonical dataset format
+        2. [ ] Generate YCB-Synthetic dataset
+    2. [ ] Running data download pipeline reruns the following:
+        1. [ ] Download converted YCB-Video dataset
+        2. [ ] Download YCB-InHouse dataset
+        3. [ ] Download YCB-Synthetic dataset
+    4. [ ] Downloads YCB-Video raw data and YCB-InHouse prepared data
+    5. [ ] Running `run_methods.jl` produces inference/baseline output and visualization
+    6. [ ] Running `run_evaluation.jl` produces 
+3. [ ] Simple generation of results
