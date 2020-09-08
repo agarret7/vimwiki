@@ -23,7 +23,7 @@ audiences.
 inference on a single video frame (where time represents eg. iterations of the
 rejuvenation kernel).
 
-## Increase reliability of structure inference
+## Increase reliability of structure inference (Not completed)
 
 ## Motivation
 Encountered [“posterior leakage” bug](https://youtu.be/Rzs-lIufTMw.md) where probability of proper structure is
@@ -35,7 +35,7 @@ is a model parameter.
 Stable and reliable inference over structure in synthetic scenes, given ground
 truth poses. Mostly stable inference over structure in real world scenes with 
 
-## Increase reliability of parameter inference
+## Increase reliability of parameter inference (Not completed)
 
 ## Motivation
 Encountered [belief/obs decoupling” bug](https://youtu.be/TTRRez01g1Y) where

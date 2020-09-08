@@ -46,6 +46,7 @@ structurally neglected by this wiki.
 * [10-09-2020](10-09-2020.md)
 * [09-09-2020](09-09-2020.md)
 * [08-09-2020](08-09-2020.md)
+* [Weekly Goals](goals-08-09-2020.md)
 
 ### 02/09/2020 - 05/09/2020
 * [Weekly Review](review-04-09-2020.md)

@@ -16,4 +16,4 @@ project.
 # Subgoals
 
 1. [ ] [Overlay SceneGraphs on Camera Image](OverlaySceneGraphOnCameraImage.md)
-2. [-] [Realtime ROS RViz Visualization](RealtimeROSRVizVisualization.md) (suspended, see link)
+2. [X] [Realtime ROS RViz Visualization](RealtimeROSRVizVisualization.md) (suspended, see link)

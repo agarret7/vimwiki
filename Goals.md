@@ -7,7 +7,6 @@ research papers, and conversations with colleagues.
 
 * Infrastructure for SceneGraph Inference Engineering
 * Writeup on SceneGraph Inference
-* SceneGraph Inference Tutorial Sequence
 
 # Goals
 This section is for units of work on the order of a few weeks to a month. It
@@ -19,8 +18,9 @@ of activity without specific execution plans. The deliverables should then be
 specific enough that a daily plan is sufficient to make clear progress without
 being confused or lost.
 
-* [ ] [Integrate Derendering into GenSceneGraphs](IntegrateDerenderingIntoGenSceneGraphs.md) | 09/2020
-* [-] [Post-NeurIPS Plans](Post-NeurIPSPlans.md) | 22/07/2020 - 31/08-2020
+* [ ] [SceneGraph Inference Tutorial Sequence](SceneGraphInferenceTutorialSequence.md) | 11/09/2020 - 20/09/2020
+* [ ] [Integrate Derendering into GenSceneGraphs](IntegrateDerenderingIntoGenSceneGraphs.md) | 01/09/2020 - 10/09/2020
+* [X] [Post-NeurIPS Plans](Post-NeurIPSPlans.md) | 22/07/2020 - 31/08-2020
 
 # Open Questions
 
