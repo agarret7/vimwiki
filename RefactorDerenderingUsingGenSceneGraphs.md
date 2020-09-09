@@ -28,14 +28,14 @@ The primary considerations in the refactor (in order of importance) are:
 There may be minimal rewriting of the actual infrastructure, but we can mostly
 use a copy of a functional subset of the Derendering repo. Special
 consideration should be paid to keeping the modeling and inference code
-modular, so that we can very easily make a Jupyter notebook version.
+modular, so that we can very easily plug-and-play different versions.
 
 Looking ahead, if there is cross compatability for `.jl` files to be read as
-Jupyter notebooks (maybe with cells defined by comments), we will want to use
-that, and then define the tutorial sequence through a set of self-contained
-`model.jl`/`infer.jl` pairs, so that we can run any single sequence as part of
-the overall infrastructure, or read it as an almost completely self-contained
-notebook/document for others.
+Jupyter notebooks (eg. with cells delimited by special comments), we will want
+to use that, and then define the tutorial sequence through a set of
+self-contained `model.jl`/`infer.jl` pairs, so that we can run any single
+sequence as part of the overall infrastructure, or read it as an almost
+completely self-contained notebook/document for others.
 
 # Deliverables
 
@@ -48,9 +48,9 @@ notebook/document for others.
         1. [ ] Download converted YCB-Video dataset
         2. [ ] Download YCB-InHouse dataset
         3. [ ] Download YCB-Synthetic dataset
-    4. [ ] Running `run_methods.jl` produces inference/baseline output and visualization
-    6. [ ] Running `run_evaluation.jl` produces raw evaluation JSONs
-    7. [ ] Running `run_plotting.jl` produces plots, tables, and other concrete metrics
+    3. [ ] Running `run_methods.jl` produces inference/baseline output and visualization
+    4. [ ] Running `run_evaluation.jl` produces raw evaluation JSONs
+    5. [ ] Running `run_plotting.jl` produces plots, tables, and other concrete metrics
 3. [ ] (optional? also still a little vague) Streamlined one-button
        infrastructure for making new YCB-InHouse videos. Otherwise, we at least
        should do the dataset conversion when generating data, instead of
