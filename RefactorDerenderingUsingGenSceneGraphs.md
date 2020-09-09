@@ -41,13 +41,13 @@ completely self-contained notebook/document for others.
 
 1. [ ] *README.md* containing a summary of the infrastructure (mostly summarizing [this](https://docs.google.com/document/d/1Hb6dmcatRCZpUXJI3ImoNVos_J4IffrMxbiwPsCtft0/edit#heading=h.7rmiigac9sxb))
 2. [ ] Push-button Makefile that runs entire pipeline
-    1. [ ] Running data generation pipeline reruns the following:
-        1. [ ] Download raw YCB-Video dataset and convert to canonical dataset format
-        2. [ ] Generate YCB-Synthetic dataset
-    2. [ ] Running data download pipeline reruns the following:
+    1. [ ] Running data download pipeline reruns the following:
         1. [ ] Download converted YCB-Video dataset
         2. [ ] Download YCB-InHouse dataset
         3. [ ] Download YCB-Synthetic dataset
+    2. [ ] Running data generation pipeline reruns the following:
+        1. [ ] Download raw YCB-Video dataset and convert to canonical dataset format
+        2. [ ] Generate YCB-Synthetic dataset
     3. [ ] Running `run_methods.jl` produces inference/baseline output and visualization
     4. [ ] Running `run_evaluation.jl` produces raw evaluation JSONs
     5. [ ] Running `run_plotting.jl` produces plots, tables, and other concrete metrics
