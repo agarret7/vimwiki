@@ -21,9 +21,10 @@ The primary considerations in the refactor (in order of importance) are:
 * Pruning dead code, via an active selection of pieces of code to be integrated
   in a brand-new repository. This is mostly relevant for (1) and (3).
 * Removing Python dependencies by replacing command-line calls to
-  RVizScenePublisher and wrappers with GenSceneGraphs calls to
+  RVizScenePublisher and wrappers, with GenSceneGraphs calls to
   `overlaySceneGraph`. This is relevant for (2).
-* Documenting the repository and its code.
+* Documenting the repository and its code. (Do this by making a list of 
+  concrete documentation goals, and soliciting feedback from others).
 
 There may be minimal rewriting of the actual infrastructure, but we can mostly
 use a copy of a functional subset of the Derendering repo. Special
