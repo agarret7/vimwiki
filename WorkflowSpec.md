@@ -81,8 +81,9 @@ TODO
 
 ### External
 
-1. Reflection meeting (2 weeks)
-2. 
+1. Reflection meeting (every other week)
+2. Cora Engineering Meeting (every week)
+3. MCS PI Meeting (every week)
 
 ### End of Week
 
