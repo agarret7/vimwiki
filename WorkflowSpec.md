@@ -1,4 +1,4 @@
-# Abstract motivation
+# Overview
 
 At the highest level, the notebook serves as a bridge between bottom-up process
 and top-down planning and goals. Each direction of information flow is
@@ -14,14 +14,6 @@ important:
    
    
 # Workflow
-   
-## Weekly
-
-### Beginning of Week
-
-### External
-
-### End of Week
 
 
 ## Daily
@@ -52,9 +44,10 @@ Brief daily standup that copies information from the daily plans and goals
 
 Same format as Cora Engineering Standup
 
-3. SCRUM Meetings
+3. SCRUM Meetings (Tues & Thur)
 
-TODO
+Spend ~10-20 minutes before this updating the SCRUM table, which should consist
+of concrete deliverables from [Goals][Goals.md].
 
 ### After Work
 
@@ -78,3 +71,18 @@ anybody. This means presenting deliverables as visualizations or blobs of code
 that can be understood in isolation. Doing this ensures that I've boiled down
 the daily activities to the core components that are relevant to the
 higher-level goals.
+
+
+## Weekly
+
+### Beginning of Week
+
+TODO
+
+### External
+
+TODO
+
+### End of Week
+
+TODO

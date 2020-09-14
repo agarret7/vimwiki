@@ -3,6 +3,10 @@
 Provides a place for documenting daily work and activities. A more detailed
 description of the standard workflow can be found [here](WorkflowSpec.md).
 
+*Note to those wanting to provide feedback*: Best way to comment on this
+notebook is via personal Slack message with either a URL link to the specific
+notebook entry, or just a simple date.
+
 
 ## Entry List
 
