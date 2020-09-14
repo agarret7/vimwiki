@@ -15,36 +15,40 @@ important:
    
 # Workflow
    
-## Weekly Goals
+## Weekly
 
 
+## Daily
 
-## Daily Plans
+Daily documentation starts immediately in the morning with a recapture of
+important context from the previous day or week, setting the stage for work
+that will be done that day. This is solidly grounded in how it relates towards
+completing the larger goal/milestone, ideally with a reference to the specific
+deliverables from that goal that can be achieved during the day.
 
+After specifying goals, prospective tasks are laid out, in a logical plan that
+carefully considers pre-planned daily activities. This primarily consists of
+meetings, which destabilize focus, and often reorient plans and goals. Hard
+technical work is best done in unbroken stretches of time, whereas logistical
+and collaborative tasks are best done in proximity to meetings.
 
-Good prospective questions at the beginning of the day are:
-    * What are my goals for today? How do they fit into the plan for the
-      week/month? How do they advance towards my next milestone?
-    * What are my plans for achieving my goals, in writing?
-    * How do these plans hold up, when I read them back to myself? Do I believe
-      the assumptions? How can they be debugged, clarified, or improved?
+To optimize the granularity of daily plans, observe how often I go back to
+check off tasks. If I go back too infrequently it's either a sign that the plan
+is potentially too vague to be useful, or contains too much detail that could
+be figured out on the fly as part of a higher-level task.
 
-Good reflective questions at the end of the day are:
-    * What happened today? (Results, examples, error messages, are great)
-    * How does it advance my goals along the plan for the
-      week/month/milestone/check-in?
-    * What should my colleagues and advisor know about the work?
-    * What help do I need or might I need?
-    * What should I work on tomorrow?
+At the end of the day, I will reflect on what happened during the day,
+considering which tasks were completed and which were left unfinished. Links to
+results, examples, error messages, or visualizations are excellent grounding
+points for describing the progress made during the day. The review considers
+how tasks were able to make progress for the next goal. Finally, it includes a
+brief overview of what work seems to make sense for tomorrow.
 
-## Reviews
+### Note
 
-Each week contains a review of activities during the week. It focuses on where
-completed work diverged from plans, and suggestions for improvements on the
-next iteration of plans. Part of the review process is updating [Goals](Goals.md), by
-linking deliverables from the week that document progress at a higher level.
-
-This is also a great place to consider if issues that popped up were specific
-to the formulation of the goal, or if they derived from deeper issues that are
-structurally neglected by this wiki.
-
+Crucially, I should strive to focus on presenting the information in a way that
+is interpretable to an external audience, and think if I need help from
+anybody. This means presenting deliverables as visualizations or blobs of code
+that can be understood in isolation. Doing this ensures that I've boiled down
+the daily activities to the core components that are relevant to the
+higher-level goals.
