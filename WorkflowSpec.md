@@ -81,7 +81,8 @@ TODO
 
 ### External
 
-TODO
+1. Reflection meeting (2 weeks)
+2. 
 
 ### End of Week
 
