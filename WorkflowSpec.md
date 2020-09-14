@@ -17,8 +17,16 @@ important:
    
 ## Weekly
 
+### Beginning of Week
+
+### External
+
+### End of Week
+
 
 ## Daily
+
+### Before Work
 
 Daily documentation starts immediately in the morning with a recapture of
 important context from the previous day or week, setting the stage for work
@@ -31,6 +39,24 @@ carefully considers pre-planned daily activities. This primarily consists of
 meetings, which destabilize focus, and often reorient plans and goals. Hard
 technical work is best done in unbroken stretches of time, whereas logistical
 and collaborative tasks are best done in proximity to meetings.
+
+### External
+
+At this point in time, I have three semi-daily forms of external communication.
+
+1. Cora Engineering Standup
+ 
+Brief daily standup that copies information from the daily plans and goals
+    
+2. Lab Standup
+
+Same format as Cora Engineering Standup
+
+3. SCRUM Meetings
+
+TODO
+
+### After Work
 
 To optimize the granularity of daily plans, observe how often I go back to
 check off tasks. If I go back too infrequently it's either a sign that the plan
