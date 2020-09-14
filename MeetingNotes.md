@@ -16,7 +16,9 @@
 * Goal by Friday the 18th have the refactor shipped.
 * Goal by Friday the 25th have the first draft of the tutorials.
 * Few days the week after the tutorial for the benchmark.
-* Document what you mean "aggregate".
+* Document what you mean "aggregate" in `overlayAggregatedSceneGraphs`.
+* Spend half-an-hour doing X to timebox planning.
+* Sub-milestones and accountability on deliverables.
 
 
 1. Clone a repo
