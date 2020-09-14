@@ -41,6 +41,7 @@ structurally neglected by this wiki.
 ## Entry List
 
 ### 14/09/2020
+* [Weekly Goals](goals-2020-09-14.md)
 
 ### 08/09/2020 - 11/09/2020
 * [Weekly Review](review-2020-09-11.md)
