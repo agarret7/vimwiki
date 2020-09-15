@@ -77,14 +77,26 @@ higher-level goals.
 
 ### Beginning of Week
 
-TODO
+Longer-scale version of daily goals, picking goals to work on for example.
 
 ### External
 
 1. Reflection meeting (every other week)
+
+No preparation required, since updates are done during the meeting.
+
 2. Cora Engineering Meeting (every week)
+
+Prepare by reading agenda, writing out lists of topics and goals that could be
+relevent to other members of the team.
+
 3. MCS PI Meeting (every week)
+
+Higher-level meeting, preparation should be focused around showing deliverables
+and visualizations if they are available and relevent for the PI's.
+
 
 ### End of Week
 
-TODO
+Review what actually happened during the week, how it made progress to
+larger-scale goals.
