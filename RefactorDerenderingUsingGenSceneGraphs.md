@@ -46,22 +46,22 @@ Each of these deliverables includes an implicit creation of documentation
 describing in explicit detail how each input can be generated.
 
 1. [ ] Nishad runs push-button Makefile that runs entire pipeline
-    1. [ ] Nishad runs data download pipeline:
+    1. [ ] Nishad runs data generation pipeline, running the following:
+        1. [ ] Nishad downloads raw YCB-Video dataset and convert to canonical dataset format
+        2. [ ] Nishad generates YCB-Synthetic dataset
+    2. [ ] Nishad runs data download pipeline:
         1. [ ] Nishad downloads converted YCB-Video dataset
         2. [ ] Nishad downloads YCB-InHouse dataset
         3. [ ] Nishad downloads YCB-Synthetic dataset
-    2. [ ] Nishad runs data generation pipeline reruns the following:
-        1. [ ] Nishad downloads raw YCB-Video dataset and convert to canonical dataset format
-        2. [ ] Nishad generates YCB-Synthetic dataset
     3. [ ] Prior from simple dynamic model, visualized over a simulated scene
     4. [ ] Nishad running `run_methods.jl` produces inference/baseline output JSON and visualization
     5. [ ] Nishad running `run_evaluation.jl` produces raw evaluation JSONs
     6. [ ] Nishad running `run_plotting.jl` produces plots, tables, and other concrete metrics
-3. [.] Documentation
+2. [.] Documentation
     1. [X] *README.md* containing a summary of the file format (mostly summarizing [this](https://docs.google.com/document/d/1Hb6dmcatRCZpUXJI3ImoNVos_J4IffrMxbiwPsCtft0/edit#heading=h.7rmiigac9sxb))
     2. [ ] At least basic doc-strings for most core functions
     3. [ ] *README.md* containing core functionality for 
-5. [ ] (optional? also still a little vague) Streamlined one-button
+3. [ ] (optional? also still a little vague) Streamlined one-button
        infrastructure for making new YCB-InHouse videos. Otherwise, we at least
        should do the dataset conversion when generating data, instead of
        maintaining the raw `.bag` files as part of the data, and the data
