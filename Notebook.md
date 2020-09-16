@@ -11,6 +11,7 @@ notebook entry, or just a simple date.
 ## Entry List
 
 ### 14/09/2020
+* [2020-09-16](2020-09-16.md)
 * [2020-09-15](2020-09-15.md)
 * [2020-09-14](2020-09-14.md)
 * [Weekly Goals](goals-2020-09-14.md)
