@@ -45,13 +45,13 @@ completely self-contained notebook/document for others.
 Each of these deliverables includes an implicit creation of documentation
 describing in explicit detail how each input can be generated.
 
-1. [ ] Nishad runs push-button Makefile that runs entire pipeline
-    1. [ ] Nishad runs data generation pipeline, running the following:
-        1. [ ] Nishad downloads raw YCB-Video dataset and convert to canonical dataset format
+1. [.] Nishad runs push-button Makefile that runs entire pipeline
+    1. [o] Nishad runs data generation pipeline, running the following:
+        1. [X] Convert raw YCB-Video to canonical format
         2. [ ] Nishad generates YCB-Synthetic dataset
-    2. [ ] Nishad runs data download pipeline:
-        1. [ ] Nishad downloads converted YCB-Video dataset
-        2. [ ] Nishad downloads YCB-InHouse dataset
+    2. [o] Nishad runs data download pipeline:
+        1. [X] Nishad downloads converted YCB-Video dataset
+        2. [X] Nishad downloads YCB-InHouse dataset
         3. [ ] Nishad downloads YCB-Synthetic dataset
     3. [ ] Prior from simple dynamic model, visualized over a simulated scene
     4. [ ] Nishad running `run_methods.jl` produces inference/baseline output JSON and visualization
