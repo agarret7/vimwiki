@@ -22,5 +22,5 @@ refactoring the visualization components from the SceneGraphs project.
 
 # Subgoals
 
-1. [ ] [Overlay SceneGraphs on Camera Image](OverlaySceneGraphOnCameraImage.md)
+1. [X] [Overlay SceneGraphs on Camera Image](OverlaySceneGraphOnCameraImage.md)
 2. [X] [Realtime ROS RViz Visualization](RealtimeROSRVizVisualization.md) (suspended, see link)

@@ -14,8 +14,8 @@ work to an outside audience, as well as providing crucial
 
 # Deliverables
 
-1. [ ] Final code is documented, and pushed to a branch of GenSceneGraphs.jl.
-2. [ ] A pull request exists for the final code, and all reviews are passed.
+1. [X] Final code is documented, and pushed to a branch of GenSceneGraphs.jl.
+2. [X] A pull request exists for the final code, and all reviews are passed.
 3. [X] The following unit tests are implemented and working.
     1. [X] Render a line
     2. [X] Render a line in 3D
