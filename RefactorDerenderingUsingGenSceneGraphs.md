@@ -45,7 +45,7 @@ completely self-contained notebook/document for others.
 Each of these deliverables includes an implicit creation of documentation
 describing in explicit detail how each input can be generated.
 
-1. [.] Nishad runs push-button Makefile that runs entire pipeline
+1. [o] Nishad runs push-button Makefile that runs entire pipeline
     1. [o] Nishad runs data generation pipeline, running the following:
         1. [X] Convert raw YCB-Video to canonical format
         2. [ ] Nishad generates YCB-Synthetic dataset
@@ -54,10 +54,11 @@ describing in explicit detail how each input can be generated.
         2. [X] Nishad downloads YCB-InHouse dataset
         3. [ ] Nishad downloads YCB-Synthetic dataset
     3. [X] Prior from simple dynamic model, visualized over a simulated scene
-    4. [ ] Nishad able to recreate prior from simple dynamic model
-    5. [ ] Nishad running `run_methods.jl` pipeline
-    6. [ ] Nishad running `run_evaluation.jl` produces raw evaluation JSONs
-    7. [ ] Nishad running `run_plotting.jl` produces plots, tables, and other concrete metrics
+    4. [X] Nishad able to recreate prior from simple dynamic model
+    5. [ ] Nishad able to rerun inference for a simple synthetic scene.
+    6. [ ] Nishad running `run_methods.jl` pipeline
+    7. [ ] Nishad running `run_evaluation.jl` produces raw evaluation JSONs
+    8. [ ] Nishad running `run_plotting.jl` produces plots, tables, and other concrete metrics
 2. [.] Documentation
     1. [X] *README.md* containing a summary of the file format (mostly summarizing [this](https://docs.google.com/document/d/1Hb6dmcatRCZpUXJI3ImoNVos_J4IffrMxbiwPsCtft0/edit#heading=h.7rmiigac9sxb))
     2. [ ] At least basic doc-strings for most core functions
