@@ -58,7 +58,6 @@ describing in explicit detail how each input can be generated.
     5. [ ] Nishad able to rerun inference for a simple synthetic scene.
     6. [ ] Nishad running `run_methods.jl` pipeline
     7. [ ] Nishad running `run_evaluation.jl` produces raw evaluation JSONs
-    8. [ ] Nishad running `run_plotting.jl` produces plots, tables, and other concrete metrics
 2. [.] Documentation
     1. [X] *README.md* containing a summary of the file format (mostly summarizing [this](https://docs.google.com/document/d/1Hb6dmcatRCZpUXJI3ImoNVos_J4IffrMxbiwPsCtft0/edit#heading=h.7rmiigac9sxb))
     2. [ ] At least basic doc-strings for most core functions
