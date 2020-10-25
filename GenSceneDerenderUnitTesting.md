@@ -10,9 +10,5 @@ are geared toward the hard and detail-oriented work of inference debugging.
 
 
 # Links
-* [ ] GitHub Project
-
-
-# Deliverables
-
-* [ ] Develop enumerative code
+Deliverables and further description is on Github
+* [GitHub Project](https://github.com/probcomp/GenSceneDerender.jl/projects/1)
