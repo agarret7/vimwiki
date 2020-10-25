@@ -18,7 +18,8 @@ of activity without specific execution plans. The deliverables should then be
 specific enough that a daily plan is sufficient to make clear progress without
 being confused or lost.
 
-* [ ] [SceneGraph Inference Tutorial Sequence](SceneGraphInferenceTutorialSequence.md) | 11/09/2020 - 20/09/2020
+* [ ] [GenSceneDerender Unit Testing](GenSceneDerenderUnitTesting.md) | 10/24/2020 - 11/16/2020
+* [X] [SceneGraph Inference Tutorial Sequence](SceneGraphInferenceTutorialSequence.md) | 11/09/2020 - 20/09/2020
 * [X] [Integrate Derendering into GenSceneGraphs](IntegrateDerenderingIntoGenSceneGraphs.md) | 01/09/2020 - 10/09/2020
 * [X] [Post-NeurIPS Plans](Post-NeurIPSPlans.md) | 22/07/2020 - 31/08-2020
 
