@@ -10,5 +10,5 @@ are geared toward the hard and detail-oriented work of inference debugging.
 
 
 # Links
-Deliverables and further description is on Github
+Deliverables and further description is on Github:
 * [GitHub Project](https://github.com/probcomp/GenSceneDerender.jl/projects/1)
