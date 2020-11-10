@@ -12,7 +12,7 @@ notebook entry, or just a simple date.
 
 ### 2020-11-09 - 2002-11-13
 
-TODO: placeholder
+* [2020-11-10](2020-11-10.md)
 * [Weekly Goals](goals-2020-10-23.md)
 
 ### 2020-10-26 - 2020-10-30
