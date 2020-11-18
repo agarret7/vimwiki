@@ -2,11 +2,13 @@
 
 # Bayesian Approaches to Computer Vision
 
+TODO: Lit review on 
+
 # Symbolic Programming for Bayesian Inference
 
 Using existential doubt as a working example, we demonstrate the capacity of
-symbolic generative models to represent integrate common-sense knowledge into
-predictive systems.
+symbolic generative models to integrate common-sense knowledge into predictive
+systems.
 
 # Intractibility of Rich Likelihoods
 
@@ -24,7 +26,9 @@ measurements of a latent abstract scene representation called a scene graph.
 
 # Scene Graphs as Scene Representations
 
-* Go over core abstraction of the scene graph type.
+* Why do we need scene graph representations?
+* Objects and geometric relationships
+* 
 
 # Modeling
 * Scene graph prior
