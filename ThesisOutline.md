@@ -1,3 +1,10 @@
+Applications of Probabilistic Programming to Predictive Vision
+
+What is the story?
+
+We started with existential doubt, running simple MCMC chains on a generative
+model containing an in-the-loop renderer. We demonstrated how this 
+
 # Introduction
 
 # Bayesian Approaches to Computer Vision
