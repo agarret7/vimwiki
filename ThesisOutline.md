@@ -14,7 +14,7 @@ and unstructured estimates of object poses.
 This allows for much more robust pose estimation, and replaces the problem of
 developing a full generative model
 
-(Neural techniques are becoming increasingly better at recognizing )
+(Neural techniques are becoming increasingly better at recognizing)
 
 Main work:
 * Drift MCMC + RJMCMC to track objects, and infer posterior distributions over
