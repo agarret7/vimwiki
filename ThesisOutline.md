@@ -44,18 +44,19 @@ concerns of when using uninformed MCMC proposals.
 FIGURE: Plot demonstrating the ill-behaved aspects of the posterior based on a
 rendering-based likelihood with multiple objects.
 
-This motivates the
-development of a new neuro-symbolic model, based instead on an error-corrective
-approach, that seeks to model the outputs of a neural detector as noisy
-measurements of a latent abstract scene representation called a scene graph.
+This motivates the development of a new neuro-symbolic model, based instead on
+an error-corrective approach, that seeks to model the outputs of a neural
+detector as noisy measurements of a latent abstract scene representation called
+a scene graph.
 
 # Scene Graphs as Scene Representations
 
-* Why do we need scene graph representations?
-* Objects and geometric relationships
+FIGURE: Ben's figure representing scene graphs
 
 # Modeling
+
 * Scene graph prior
+
 * Dynamics
     * Parameters
     * Structure
