@@ -10,7 +10,7 @@ notebook entry, or just a simple date.
 
 ## Entry List
 
-### 2020-01-11 - 2020-01-16
+### 2020-01-11 - Forever
 
 * [2020-01-15](2020-01-15.md)
 * [2020-01-13](2020-01-13.md)
